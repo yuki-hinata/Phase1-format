@@ -58,7 +58,6 @@ header {
     background-color:inherit;
     position: absolute;
     z-index:10;
-
 }
 
 .header-logo{
@@ -104,7 +103,6 @@ footer{
     margin:0 auto;
     width:250px ;
     text-align: center;
-
 }
 
 .first-v-title{
@@ -117,7 +115,7 @@ footer{
 .first-v-title::after{
     content:"";
     width:100px ;
-    border-top:1px solid #fff;
+    border-bottom:1px solid #fff;
     margin:20px auto 0;
     display:block;
 }
@@ -356,7 +354,7 @@ select{
 }
 
 .contact-text{
-    margin-bottom: 10px;]
+    margin-bottom: 10px;
     font-size: 15px;
 }
 
